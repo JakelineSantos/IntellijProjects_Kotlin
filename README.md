@@ -2,9 +2,9 @@
 
 ### **Olá!**
 
-**_Bem vindo ao meu repositório de códigos em Kotlin para executar no_** http://play.kotlinlang.org/ 🙂
+**_Bem vindo ao meu repositório de códigos em Kotlin_** 
 
-Contém os códigos gerados a partir das atividades propostas nas aulas: 1- Introdução ao Kotlin; ministradas no curso everis Kotlin Developer da Digital Innovation One.
+Contém os códigos gerados a partir das atividades propostas nas aulas: 1- Introdução ao Kotlin; 2- Fundamentos de OO; ministradas no curso everis Kotlin Developer da Digital Innovation One.
 
 O repositório também pode conter arquivos que não fazem referência às aulas acima.
 
