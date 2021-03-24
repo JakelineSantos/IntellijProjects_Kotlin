@@ -1,4 +1,4 @@
-# IntelliJ Projects Kotlin :elephant:
+# IntelliJ Projects Kotlin :robot:
 
 ### **Olá!**
 
